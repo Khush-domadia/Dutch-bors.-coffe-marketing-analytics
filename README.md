@@ -47,7 +47,7 @@ Six Likert-scale variables (Q9_1 – Q9_6) were used as clustering bases:
 - Social media engagement  
 - Preference for personalized service  
 
-These were clustered using **Hierarchical Clustering (Ward’s Method)** in Enginius :contentReference[oaicite:2]{index=2}.
+These were clustered using **Hierarchical Clustering (Ward’s Method)** in Enginius.
 
 ---
 
@@ -56,16 +56,16 @@ These were clustered using **Hierarchical Clustering (Ward’s Method)** in Engi
 ### Initial Model (Exploratory)
 - 5-cluster solution
 - Statistically valid but too fragmented (small cluster sizes)
-- Limited managerial usability :contentReference[oaicite:3]{index=3}
+- Limited managerial usability
 
 ### Final Model (Validated)
 - 2-cluster solution retained
 - Combined with discriminant analysis
-- 100% classification accuracy (in-sample) :contentReference[oaicite:4]{index=4}
+- 100% classification accuracy (in-sample)
 
 ### Final Segment Sizes:
 - **Segment 1: 18%**
-- **Segment 2: 82%** :contentReference[oaicite:5]{index=5}
+- **Segment 2: 82%** :contentReference
 
 ---
 
@@ -110,7 +110,7 @@ These were clustered using **Hierarchical Clustering (Ward’s Method)** in Engi
 A multinomial logit classification model was used to test whether observable descriptors (age, gender, purchase type, visit frequency, etc.) could predict segment membership.
 
 ### Confusion Matrix Results:
-- 100% correct classification (17/17 observations) :contentReference[oaicite:6]{index=6}
+- 100% correct classification (17/17 observations)
 - High predictive power using behavioral and demographic variables
 
 This confirms that the segments are:
